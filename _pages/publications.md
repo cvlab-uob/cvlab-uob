@@ -56,10 +56,13 @@ permalink: /publications/
 
 {% for publi in site.data.publist %}
 
-  {{ publi.title }} - {{publi.booktitle}} <br />
+  {{ publi.title }} -- <font color='red'> {{publi.booktitle_short}} </font> <br />
   <em>{{ publi.authors }} </em><br />
-  {{ publi.title }} <br />
+  {{ publi.booktitle_full }} <br />
   <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  <a href="{{ publi.link.url }}">{{ publi.link.paper }}</a>
+  <a href="{{ publi.link.url }}">{{ publi.link.video }}</a>
+  <a href="{{ publi.link.url }}">{{ publi.link.bibtex }}</a>
 
 {% endfor %}
 
