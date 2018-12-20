@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Publications"
+title: "HCVL Lab - Publications"
 layout: gridlay
-excerpt: "Allan Lab -- Publications."
+excerpt: "HCVL Lab -- Publications."
 sitemap: false
 permalink: /publications/
 ---
@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## Highlights
 
-(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.ch/citations?user=TqxYWZsAAAAJ), [ResearcherID](https://www.researcherid.com/rid/D-7763-2012))
+(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.com/citations?hl=en&user=3TggrEkAAAAJ&view_op=list_works&gmla=AJsN-F4va6EjHhcBtURRNgDyyLaNVakvwCX5JWPJn7uJWOCSFhlJdQPSnnSTDNSzbTBOJI0MiVzGQVjDyzjGsbv2ySzm7kdgpLQTaODhdr3uvpH0747rsZRmcWi6ZLvHDJEUTIxkBUzq)
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -56,7 +56,7 @@ permalink: /publications/
 
 {% for publi in site.data.publist %}
 
-  {{ publi.title }} -- <font color='red'> {{publi.booktitle_short}} </font> <br />
+  <strong>{{ publi.title }}</strong> -- <font color='red'>{{publi.booktitle_short}}</font><br />
   <em>{{ publi.authors }} </em><br />
   {{ publi.booktitle_full }} <br />
   [<a href="{{ publi.link.url_display }}">{{ publi.link.display }}</a>

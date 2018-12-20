@@ -139,8 +139,8 @@ permalink: /team/
 
 <table align="center" style="width:100%">
  <tr>
-    <th>MSc Students</th>
-    <th>BSc Students</th>
+    <th>Master Students</th>
+    <th>Undergraduate Students</th>
   </tr>
   <tr>
     <td>Joshua Henderson, 2018</td>
@@ -148,15 +148,15 @@ permalink: /team/
   </tr>
   <tr>
     <td>Vivek Chauhan, 2018 </td>
-    <td>Csongor Barabasi, 2018</td>
+    <td>Csongor Barabasi (BSc), 2018</td>
   </tr>
   <tr>
     <td>Fuqiang Jiang, 2018</td>
-    <td>Bogdan Craciun, 2018</td>
+    <td>Bogdan Craciun (BSc), 2018</td>
   </tr>
   <tr>
     <td>Rajdev Singh, 2018</td>
-    <td>Joseph Ramsay, 2018</td>
+    <td>Joseph Ramsay (BSc), 2018</td>
   </tr>
   <tr>
     <td>Xiaohui Ren, 2018</td>
@@ -171,7 +171,7 @@ permalink: /team/
     <td></td>
   </tr>
   <tr>
-    <td></td>
+    <td> </td>
     <td></td>
   </tr>
   <tr>

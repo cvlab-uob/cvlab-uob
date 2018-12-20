@@ -245,5 +245,5 @@
     url_video: https://www.youtube.com/watch?v=vrDMqv1adHs
     video: Video 
     url_bibtex: https://www.youtube.com/watch?v=vrDMqv1adHs
-    bibtex: Bib 
-  highlight: 0
+    bibtex: Bibtex 
+  highlight: 1
