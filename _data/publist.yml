@@ -16,6 +16,24 @@
     bibtex: Bibtex 
   highlight: 1
 
+- title: Support Vector Data Description Using Clustering Method
+  image: itc-cscc2007.png
+  booktitle_short: ITC-CSCC'07
+  booktitle_full: International Technical Conference on Circuits/Systems, Computers and Communications 2007
+  description: ""
+  authors:
+    Hyung Jin Chang, Pyo Jae Kim, Jung Hwan Choi, Jin Young Choi
+  link:
+    url_paper_download: svdd-using-clustering.pdf
+    paper_download: PDF 
+    url_paper_web:
+    paper_web:
+    url_video:
+    video: 
+    url_bibtex:
+    bibtex:
+  highlight: 1  
+
 - title: Emotional head robot with behavior decision model and face recognition
   image: iccas2007.png
   booktitle_short: ICCAS'07
