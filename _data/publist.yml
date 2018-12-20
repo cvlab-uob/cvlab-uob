@@ -241,9 +241,9 @@
     Guillermo Garcia-Hernando, Hyung Jin Chang, Ismael Serrano, Oscar Deniz, Tae-Kyun Kim
   link:
     url_paper_download: transitionhoughforest_wacv2016.pdf
-    paper_download: PDF_download 
-    url_paper_web: https://ieeexplore.ieee.org/document/7477709
-    paper_web: PDF_web 
+    paper_download: PDF 
+    url_paper_web:
+    paper_web:
     url_video: https://www.youtube.com/watch?v=vrDMqv1adHs
     video: Video 
     url_bibtex: https://www.youtube.com/watch?v=vrDMqv1adHs
