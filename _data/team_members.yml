@@ -1,0 +1,27 @@
+- name: Hyung Jin Chang
+  photo: hjchang2014.jpg
+  info: Lecturer (equivalent to Assistant Professor)
+  email: h.j.chang@bham.ac.uk
+  number_educ: 4
+  education1: Postdoc @ Imperial College London with <a href="https://www.imperial.ac.uk/personal-robotics">Prof. Yiannis Demiris</a>
+  education2: Postdoc @ Imperial College London with <a href="https://labicvl.github.io/">Dr. Tae-Kyun Kim</a>
+  education3: PhD @ Seoul National University with <a href="http://pil.snu.ac.kr/about/view.do?idx=1">Prof. Jin Young Choi</a>
+  education4: B.Sc. @ Seoul National University
+
+- name: Nora Horanyi
+  photo: Nora_Horanyi.jpg
+  info: PhD student, started Oct. 2018
+  email: NXH840@student.bham.ac.uk 
+  number_educ: 2
+  education1: M.Sc. in Info-bionics Engineering @ Institute of Informatics, University of Szeged with <a href="https://www.inf.u-szeged.hu/~kato/">Prof. Zoltan Kato</a>
+  education2: B.Sc. in Molecular Bionics Engineering @ Institute of Chemistry, University of Szeged
+
+- name: "This could be you !"
+  photo: rock.jpg
+  info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
+  email: h.j.chang@bham.ac.uk
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
