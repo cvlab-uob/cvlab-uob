@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "HCVL - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "HCVL Lab at the University of Birmingham"
 sitemap: false
 permalink: /
 ---
