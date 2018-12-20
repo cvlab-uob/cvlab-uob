@@ -234,11 +234,12 @@
 
 - title: Transition Hough Forest for Trajectory-based Action Recognition
   image: dummy.png
-  booktitle: WACV'16
+  booktitle_short: WACV'16
+  booktitle_full: IEEE Winter Conference on Applications of Computer Vision (WACV)
   description: ""
   authors:
     Guillermo Garcia-Hernando, Hyung Jin Chang, Ismael Serrano, Oscar Deniz, Tae-Kyun Kim
   link:
     url: https://ieeexplore.ieee.org/document/7477709
-    display: WACV (2016)
+    paper: PDF
   highlight: 0
