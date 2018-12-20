@@ -16,6 +16,24 @@
     bibtex: Bibtex 
   highlight: 1
 
+- title: Fast Support Vector Data Description Using K-Means Clustering
+  image: lncs2007.png
+  booktitle_short: LNCS'07
+  booktitle_full: Lecture Notes in Computer Science 2007
+  description: ""
+  authors:
+    Pyo Jae Kim, Hyung Jin Chang, Dong Sung Song, Jin Young Choi
+  link:
+    url_paper_download: KMSVDD.pdf
+    paper_download: PDF 
+    url_paper_web:
+    paper_web:
+    url_video:
+    video: 
+    url_bibtex:
+    bibtex:
+  highlight: 1  
+
 - title: Support Vector Data Description Using Clustering Method
   image: itc-cscc2007.png
   booktitle_short: ITC-CSCC'07
