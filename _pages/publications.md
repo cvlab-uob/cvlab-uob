@@ -59,10 +59,12 @@ permalink: /publications/
   {{ publi.title }} -- <font color='red'> {{publi.booktitle_short}} </font> <br />
   <em>{{ publi.authors }} </em><br />
   {{ publi.booktitle_full }} <br />
-  <a href="{{ publi.link.url_display }}">{{ publi.link.display }}</a>
+  [<a href="{{ publi.link.url_display }}">{{ publi.link.display }}</a>
   <a href="{{ publi.link.url_paper }}">{{ publi.link.paper }}</a>
   <a href="{{ publi.link.url_video }}">{{ publi.link.video }}</a>
-  <a href="{{ publi.link.url_bibtex }}">{{ publi.link.bibtex }}</a>
+  <a href="{{ publi.link.url_ProjectPage }}">{{ publi.link.ProjectPage }}</a>
+  <a href="{{ publi.link.url_code }}">{{ publi.link.code }}</a>
+  <a href="{{ publi.link.url_bibtex }}">{{ publi.link.bibtex }}</a>]
 
 {% endfor %}
 
