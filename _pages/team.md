@@ -1,7 +1,7 @@
 ---
-title: "CVLab@UoB - Team"
+title: "HCVL@UoB - Team"
 layout: gridlay
-excerpt: "CV Lab: Team members"
+excerpt: "HCVL Lab: Team members"
 sitemap: false
 permalink: /team/
 ---
