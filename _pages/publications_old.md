@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## Highlights
 
-For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.com/citations?hl=en&user=3TggrEkAAAAJ&view_op=list_works&gmla=AJsN-F4va6EjHhcBtURRNgDyyLaNVakvwCX5JWPJn7uJWOCSFhlJdQPSnnSTDNSzbTBOJI0MiVzGQVjDyzjGsbv2ySzm7kdgpLQTaODhdr3uvpH0747rsZRmcWi6ZLvHDJEUTIxkBUzq)
+(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.com/citations?hl=en&user=3TggrEkAAAAJ&view_op=list_works&gmla=AJsN-F4va6EjHhcBtURRNgDyyLaNVakvwCX5JWPJn7uJWOCSFhlJdQPSnnSTDNSzbTBOJI0MiVzGQVjDyzjGsbv2ySzm7kdgpLQTaODhdr3uvpH0747rsZRmcWi6ZLvHDJEUTIxkBUzq)
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -69,20 +69,3 @@ For a full list see [below](#full-list) or go to [Google Scholar](https://schola
 
 {% endfor %}
 
-
-## Patents
-
-{% for publi_patent in site.data.publist_patent %}
-
-  <strong>{{ publi.title }}</strong> -- <font color='red'>{{publi.booktitle_short}}</font><br />
-  <em>{{ publi.authors }} </em><br />
-  {{ publi.booktitle_full }} <br />
-  [<a href="{{ publi.link.url_display }}">{{ publi.link.display }}</a>
-  <a href="{{ site.baseurl }}/downloads/{{ publi.link.url_paper_download }}">{{ publi.link.paper_download }}</a>
-  <a href="{{ publi.link.url_paper_web }}">{{ publi.link.paper_web }}</a>
-  <a href="{{ publi.link.url_video }}">{{ publi.link.video }}</a>
-  <a href="{{ publi.link.url_ProjectPage }}">{{ publi.link.ProjectPage }}</a>
-  <a href="{{ publi.link.url_code }}">{{ publi.link.code }}</a>
-  <a href="{{ publi.link.url_bibtex }}">{{ publi.link.bibtex }}</a>]
-
-{% endfor %}
