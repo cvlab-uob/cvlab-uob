@@ -231,14 +231,3 @@
     url: hhttp://www.ingentaconnect.com/content/scs/chimia/2006/00000060/00000011/art00013
     display: CHIMIA 11, 759 (2006)
   highlight: 0
-
-- title: Transition Hough Forest for Trajectory-based Action Recognition
-  image: dummy.png
-  booktitle: WACV'16
-  description: ""
-  authors:
-    Guillermo Garcia-Hernando, Hyung Jin Chang, Ismael Serrano, Oscar Deniz, Tae-Kyun Kim
-  link:
-    url: https://ieeexplore.ieee.org/document/7477709
-    display: WACV (2016)
-  highlight: 0
