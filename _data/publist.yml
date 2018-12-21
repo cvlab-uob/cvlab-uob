@@ -12,11 +12,33 @@
     paper_web: PDF 
     url_video: https://www.youtube.com/watch?v=1SfOI4hDvBI&feature=youtu.be
     video: Video 
+    url_bibtex: RT-GENE_ECCV2018.bib
+    bibtex: Bibtex 
+    url_poster: fischer-2018-eccv-poster.pdf
+    poster: Poster 
+    url_code: https://github.com/Tobias-Fischer/rt_gene
+    code: Code+Dataset 
+  highlight: 1
+
+- title: "Transferring Visuomotor Learning from Simulation to the Real World for Manipulation Tasks in a Humanoid Robot"
+  image: IROS-2018.png
+  booktitle_short: IROS'18
+  booktitle_full: IEEE/RSJ International Conference on Intelligent Robots and Systems 2018
+  description: ""
+  authors:
+    Phuong D.H. Nguyen, Tobias Fischer, Hyung Jin Chang, Ugo Pattacini, Giorgio Metta, Yiannis Demiris
+  link:
+    url_paper_download:
+    paper_download:
+    url_paper_web: http://openaccess.thecvf.com/content_ECCV_2018/papers/Tobias_Fischer_RT-GENE_Real-Time_Eye_ECCV_2018_paper.pdf
+    paper_web: PDF 
+    url_video: https://www.youtube.com/watch?v=1SfOI4hDvBI&feature=youtu.be
+    video: Video 
     url_bibtex: https://www.youtube.com/watch?v=vrDMqv1adHs
     bibtex: Bibtex 
     url_poster:
     poster: 
-  highlight: 1
+  highlight: 1  
 
 - title: "Transition Hough Forest for Trajectory-based Action Recognition"
   image: dummy.png
