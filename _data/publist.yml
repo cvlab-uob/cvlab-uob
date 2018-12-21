@@ -2,11 +2,7 @@
   image: eccv-2018.png
   booktitle_short: ECCV'18
   booktitle_full: European Conference on Computer Vision 2018
-  description: Our approach introduces gaze estimation in natural scenarios where gaze was previously approximated by the head pose of the subject. We proposed RT-GENE,
-a novel approach for ground truth gaze estimation in these natural settings, and
-we collected a new challenging dataset using this approach. We demonstrated
-that the dataset covers a wider range of camera-subject distances, head poses
-and gazes compared to previous in-the-wild datasets.
+  description: We proposed RT-GENE, a novel approach for ground truth gaze estimation in these natural settings.
   authors: 
     Tobias Fischer, Hyung Jin Chang, Yiannis Demiris
   link:
