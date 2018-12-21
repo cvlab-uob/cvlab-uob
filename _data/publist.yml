@@ -1,4 +1,24 @@
-- title: Transition Hough Forest for Trajectory-based Action Recognition
+- title: "RT-GENE: Real-Time Eye Gaze Estimation in Natural Environments"
+  image: eccv-2018.png
+  booktitle_short: ECCV'18
+  booktitle_full: European Conference on Computer Vision 2018
+  description: ""
+  authors:
+    Tobias Fischer, Hyung Jin Chang, Yiannis Demiris
+  link:
+    url_paper_download:
+    paper_download:
+    url_paper_web: http://openaccess.thecvf.com/content_ECCV_2018/papers/Tobias_Fischer_RT-GENE_Real-Time_Eye_ECCV_2018_paper.pdf
+    paper_web: PDF 
+    url_video: https://www.youtube.com/watch?v=1SfOI4hDvBI&feature=youtu.be
+    video: Video 
+    url_bibtex: https://www.youtube.com/watch?v=vrDMqv1adHs
+    bibtex: Bibtex 
+    url_poster:
+    poster: 
+  highlight: 1
+
+- title: "Transition Hough Forest for Trajectory-based Action Recognition"
   image: dummy.png
   booktitle_short: WACV'16
   booktitle_full: IEEE Winter Conference on Applications of Computer Vision
@@ -16,7 +36,25 @@
     bibtex: Bibtex 
   highlight: 1
 
-- title: Fast Support Vector Data Description Using K-Means Clustering
+- title: "Fast Incremental Learning for One-class Support Vector Classifier using Sample Margin Information"
+  image: lncs2007.png
+  booktitle_short: ICPR'08 [Oral presentation]
+  booktitle_full: International Conference on Pattern Recognition 2008
+  description: ""
+  authors:
+    Pyo Jae Kim, Hyung Jin Chang, Jin Young Choi
+  link:
+    url_paper_download: ICPR08_pjkim.pdf
+    paper_download: PDF 
+    url_paper_web:
+    paper_web:
+    url_video:
+    video: 
+    url_bibtex:
+    bibtex:
+  highlight: 1 
+
+- title: "Fast Support Vector Data Description Using K-Means Clustering"
   image: lncs2007.png
   booktitle_short: LNCS'07
   booktitle_full: Lecture Notes in Computer Science 2007
@@ -34,7 +72,7 @@
     bibtex:
   highlight: 1  
 
-- title: Support Vector Data Description Using Clustering Method
+- title: "Support Vector Data Description Using Clustering Method"
   image: itc-cscc2007.png
   booktitle_short: ITC-CSCC'07
   booktitle_full: International Technical Conference on Circuits/Systems, Computers and Communications 2007
