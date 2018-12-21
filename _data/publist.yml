@@ -153,7 +153,7 @@ and gazes compared to previous in-the-wild datasets.
     video: 
     url_bibtex:
     bibtex:
-  highlight: 1 
+  highlight: 0 
 
 - title: "Fast Support Vector Data Description Using K-Means Clustering"
   image: lncs2007.png
@@ -171,7 +171,7 @@ and gazes compared to previous in-the-wild datasets.
     video: 
     url_bibtex:
     bibtex:
-  highlight: 1  
+  highlight: 0  
 
 - title: "Support Vector Data Description Using Clustering Method"
   image: itc-cscc2007.png
@@ -189,7 +189,7 @@ and gazes compared to previous in-the-wild datasets.
     video: 
     url_bibtex:
     bibtex:
-  highlight: 1  
+  highlight: 0  
 
 - title: Emotional head robot with behavior decision model and face recognition
   image: iccas2007.png
@@ -207,4 +207,4 @@ and gazes compared to previous in-the-wild datasets.
     video: 
     url_bibtex:
     bibtex:
-  highlight: 1
+  highlight: 0
