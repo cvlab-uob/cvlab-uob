@@ -2,12 +2,16 @@
   image: eccv-2018.png
   booktitle_short: ECCV'18
   booktitle_full: European Conference on Computer Vision 2018
-  description: ""
-  authors:
+  description: Our approach introduces gaze estimation in natural scenarios where gaze was previously approximated by the head pose of the subject. We proposed RT-GENE,
+a novel approach for ground truth gaze estimation in these natural settings, and
+we collected a new challenging dataset using this approach. We demonstrated
+that the dataset covers a wider range of camera-subject distances, head poses
+and gazes compared to previous in-the-wild datasets.
+  authors: 
     Tobias Fischer, Hyung Jin Chang, Yiannis Demiris
   link:
-    url_paper_download:
-    paper_download:
+    url_paper_server:
+    paper_server:
     url_paper_web: http://openaccess.thecvf.com/content_ECCV_2018/papers/Tobias_Fischer_RT-GENE_Real-Time_Eye_ECCV_2018_paper.pdf
     paper_web: PDF 
     url_video: https://www.youtube.com/watch?v=1SfOI4hDvBI&feature=youtu.be
@@ -15,21 +19,21 @@
     url_bibtex: RT-GENE_ECCV2018.bib
     bibtex: Bibtex 
     url_poster: fischer-2018-eccv-poster.pdf
-    poster: Poster 
+    poster: Poster
     url_code: https://github.com/Tobias-Fischer/rt_gene
     code: Code+Dataset 
   highlight: 1
 
 - title: "Transferring Visuomotor Learning from Simulation to the Real World for Manipulation Tasks in a Humanoid Robot"
-  image: IROS-2018.png
+  image: iros-2018.png
   booktitle_short: IROS'18
   booktitle_full: IEEE/RSJ International Conference on Intelligent Robots and Systems 2018
   description: ""
   authors:
     Phuong D.H. Nguyen, Tobias Fischer, Hyung Jin Chang, Ugo Pattacini, Giorgio Metta, Yiannis Demiris
   link:
-    url_paper_download:
-    paper_download:
+    url_paper_server:
+    paper_server:
     url_paper_web: http://openaccess.thecvf.com/content_ECCV_2018/papers/Tobias_Fischer_RT-GENE_Real-Time_Eye_ECCV_2018_paper.pdf
     paper_web: PDF 
     url_video: https://www.youtube.com/watch?v=1SfOI4hDvBI&feature=youtu.be
@@ -40,6 +44,81 @@
     poster: 
   highlight: 1  
 
+- title: "Context-aware Deep Feature Compression for High-speed Visual Tracking"
+  image: CVPR-2018.png
+  booktitle_short: CVPR'18 
+  booktitle_full: IEEE Conference on Computer Vision and Pattern Recognition 2018
+  description: The proposed new visual object tracking framework achieves a high-speed tracking ability of over 100 fps while our framework maintains a competitive performance compared to the state-of-the-art trackers.
+  authors: Jongwon Choi, Hyung Jin Chang, Tobias Fischer, Sangdoo Yun, Kyuewang Lee, Jiyeoup Jeong, Yiannis Demiris, Jin Young Choi   
+  link:
+    url_paper_server:
+    paper_server:
+    url_paper_web: http://openaccess.thecvf.com/content_cvpr_2018/papers/Choi_Context-Aware_Deep_Feature_CVPR_2018_paper.pdf
+    paper_web: PDF
+    url_video: https://www.youtube.com/watch?v=Ss5NIRL2HIk
+    video: Video
+    url_bibtex:
+    bibtex:
+    url_poster:
+    poster:
+    url_code:
+    code:
+    url_dataset:
+    dataset:
+    url_projectpage: https://sites.google.com/site/jwchoivision/home/traca
+    projectpage: Project Page
+  highlight: 1  
+
+- title: ""
+  image: .png
+  booktitle_short: 
+  booktitle_full: 
+  description: ""
+  authors:    
+  link:
+    url_paper_server:
+    paper_server:
+    url_paper_web:
+    paper_web:
+    url_video:
+    video:
+    url_bibtex:
+    bibtex:
+    url_poster:
+    poster:
+    url_code:
+    code:
+    url_dataset:
+    dataset:
+    url_projectpage:
+    projectpage:
+  highlight: 1   
+
+- title: ""
+  image: .png
+  booktitle_short: 
+  booktitle_full: 
+  description: ""
+  authors:    
+  link:
+    url_paper_server:
+    paper_server:
+    url_paper_web:
+    paper_web:
+    url_video:
+    video:
+    url_bibtex:
+    bibtex:
+    url_poster:
+    poster:
+    url_code:
+    code:
+    url_dataset:
+    dataset:
+    url_projectpage:
+    projectpage:
+  highlight: 1        
+
 - title: "Transition Hough Forest for Trajectory-based Action Recognition"
   image: dummy.png
   booktitle_short: WACV'16
@@ -48,8 +127,8 @@
   authors:
     Guillermo Garcia-Hernando, Hyung Jin Chang, Ismael Serrano, Oscar Deniz, Tae-Kyun Kim
   link:
-    url_paper_download: transitionhoughforest_wacv2016.pdf
-    paper_download: PDF 
+    url_paper_server: transitionhoughforest_wacv2016.pdf
+    paper_server: PDF 
     url_paper_web:
     paper_web:
     url_video: https://www.youtube.com/watch?v=vrDMqv1adHs
@@ -66,8 +145,8 @@
   authors:
     Pyo Jae Kim, Hyung Jin Chang, Jin Young Choi
   link:
-    url_paper_download: ICPR08_pjkim.pdf
-    paper_download: PDF 
+    url_paper_server: ICPR08_pjkim.pdf
+    paper_server: PDF 
     url_paper_web:
     paper_web:
     url_video:
@@ -84,8 +163,8 @@
   authors:
     Pyo Jae Kim, Hyung Jin Chang, Dong Sung Song, Jin Young Choi
   link:
-    url_paper_download: KMSVDD.pdf
-    paper_download: PDF 
+    url_paper_server: KMSVDD.pdf
+    paper_server: PDF 
     url_paper_web:
     paper_web:
     url_video:
@@ -102,8 +181,8 @@
   authors:
     Hyung Jin Chang, Pyo Jae Kim, Jung Hwan Choi, Jin Young Choi
   link:
-    url_paper_download: svdd-using-clustering.pdf
-    paper_download: PDF 
+    url_paper_server: svdd-using-clustering.pdf
+    paper_server: PDF 
     url_paper_web:
     paper_web:
     url_video:
@@ -120,8 +199,8 @@
   authors:
     Ho Seok Ahn, Pyo Jae Kim, Jeong Hwan Choi, Bin Mansoor, S., Woo-Sung Kang, Seok Min Yoon, Jin Hee Na, Young Min Baek, Hyung Jin Chang, Dong Sung Song, Jin Young Choi, Hyeong-Seok Ko
   link:
-    url_paper_download:
-    paper_download:
+    url_paper_server:
+    paper_server:
     url_paper_web: https://ieeexplore.ieee.org/document/4406829
     paper_web: PDF
     url_video:

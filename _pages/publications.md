@@ -60,11 +60,12 @@ permalink: /publications/
   <em>{{ publi.authors }} </em><br />
   {{ publi.booktitle_full }} <br />
   [<a href="{{ publi.link.url_display }}">{{ publi.link.display }}</a>
-  <a href="{{ site.baseurl }}/downloads/{{ publi.link.url_paper_download }}">{{ publi.link.paper_download }}</a>
+  <a href="{{ site.baseurl }}/downloads/{{ publi.link.url_paper_server }}">{{ publi.link.paper_server }}</a>
   <a href="{{ publi.link.url_paper_web }}">{{ publi.link.paper_web }}</a>
   <a href="{{ publi.link.url_video }}">{{ publi.link.video }}</a>
-  <a href="{{ publi.link.url_ProjectPage }}">{{ publi.link.ProjectPage }}</a>
+  <a href="{{ publi.link.url_projectpage }}">{{ publi.link.projectpage }}</a>
   <a href="{{ publi.link.url_code }}">{{ publi.link.code }}</a>
+  <a href="{{ publi.link.url_dataset }}">{{ publi.link.dataset }}</a>]  
   <a href="{{ publi.link.url_bibtex }}">{{ publi.link.bibtex }}</a>]
 
 {% endfor %}
