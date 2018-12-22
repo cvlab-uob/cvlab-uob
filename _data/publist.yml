@@ -45,7 +45,8 @@
   booktitle_short: CVPR'18 
   booktitle_full: IEEE Conference on Computer Vision and Pattern Recognition 2018
   description: The proposed new visual object tracking framework achieves a high-speed tracking ability of over 100 fps while our framework maintains a competitive performance compared to the state-of-the-art trackers.
-  authors: Jongwon Choi, Hyung Jin Chang, Tobias Fischer, Sangdoo Yun, Kyuewang Lee, Jiyeoup Jeong, Yiannis Demiris, Jin Young Choi   
+  authors: 
+    Jongwon Choi, Hyung Jin Chang, Tobias Fischer, Sangdoo Yun, Kyuewang Lee, Jiyeoup Jeong, Yiannis Demiris, Jin Young Choi   
   link:
     url_paper_server:
     paper_server:

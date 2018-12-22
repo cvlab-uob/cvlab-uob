@@ -67,7 +67,7 @@ permalink: /publications/
   <a href="{{ publi.link.url_dataset }}">{{ publi.link.dataset }}</a>]  
   <a href="{{ site.baseurl }}/downloads/{{ publi.link.url_supplement }}">{{ publi.link.supplement }}</a>
   <a href="{{ site.baseurl }}/downloads/{{ publi.link.url_poster }}">{{ publi.link.poster }}</a>  
-  <a href="{{ publi.link.url_bibtex }}">{{ publi.link.bibtex }}</a>]
+  <a href="{{ site.baseurl }}/downloads/{{ publi.link.url_bibtex }}">{{ publi.link.bibtex }}</a>]
 
 {% endfor %}
 
