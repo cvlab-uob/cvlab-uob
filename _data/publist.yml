@@ -1,3 +1,55 @@
+- title: "Attentional Correlation Filter Network for Adaptive Visual Tracking"
+  image: cvpr2017.png
+  booktitle_short: CVPR'17
+  booktitle_full: IEEE Conference on Computer Vision and Pattern Recognition 2017
+  description: ""
+  authors: Jongwon Choi, Hyung Jin Chang, Sangdoo Yun, Tobias Fischer, Yiannis Demiris, Jin Young Choi   
+  link:
+    url_paper_server:
+    paper_server:
+    url_paper_web: http://openaccess.thecvf.com/content_cvpr_2017/papers/Choi_Attentional_Correlation_Filter_CVPR_2017_paper.pdf
+    paper_web: Paper 
+    url_video: https://www.youtube.com/watch?v=WCcaxLiDuyI
+    video: Video 
+    url_bibtex:
+    bibtex:
+    url_poster:
+    poster:
+    url_code:
+    code:
+    url_dataset:
+    dataset:
+    url_projectpage: https://sites.google.com/site/jwchoivision/home/acfn-1
+    projectpage: ProjectPage 
+  highlight: 1   
+
+- title: "Variational Autoencoded Regression: High Dimensional Regression of Visual Data on Complex Manifold"
+  image: cvpr2017_variational.png
+  booktitle_short: CVPR'17
+  booktitle_full: IEEE Conference on Computer Vision and Pattern Recognition 2017
+  description: ""
+  authors: Youngjoon Yoo, Sangdoo Yun, Hyung Jin Chang, Yiannis Demiris, Jin Young Choi
+  link:
+    url_paper_server: cvpr-2017-variational-paper.pdf
+    paper_server: Paper
+    url_paper_web:
+    paper_web:
+    url_video: https://www.youtube.com/watch?v=Wah0QUapkKo
+    video: Video
+    url_bibtex:
+    bibtex:
+    url_poster:
+    poster:
+    url_code:
+    code:
+    url_dataset:
+    dataset:
+    url_projectpage:
+    projectpage:
+    url_supplement: cvpr-2017-variational-supp.pdf
+    supplement: Supplement     
+  highlight: 1
+
 - title: "Transition Hough Forest for Trajectory-based Action Recognition"
   image: dummy.png
   booktitle_short: WACV'16
@@ -12,8 +64,8 @@
     paper_web:
     url_video: https://www.youtube.com/watch?v=vrDMqv1adHs
     video: Video 
-    url_bibtex: https://www.youtube.com/watch?v=vrDMqv1adHs
-    bibtex: Bibtex 
+    url_bibtex:
+    bibtex: 
   highlight: 0
 
 - title: "Fast Incremental Learning for One-class Support Vector Classifier using Sample Margin Information"
