@@ -9,13 +9,13 @@
     url_paper_server:
     paper_server:
     url_paper_web: http://openaccess.thecvf.com/content_ECCV_2018/papers/Tobias_Fischer_RT-GENE_Real-Time_Eye_ECCV_2018_paper.pdf
-    paper_web: PDF 
+    paper_web: Paper 
     url_video: https://www.youtube.com/watch?v=1SfOI4hDvBI&feature=youtu.be
     video: Video 
     url_bibtex: RT-GENE_ECCV2018.bib
     bibtex: Bibtex 
     url_poster: fischer-2018-eccv-poster.pdf
-    poster: Poster
+    poster: Poster 
     url_code: https://github.com/Tobias-Fischer/rt_gene
     code: Code+Dataset 
   highlight: 1
@@ -31,7 +31,7 @@
     url_paper_server:
     paper_server:
     url_paper_web: http://openaccess.thecvf.com/content_ECCV_2018/papers/Tobias_Fischer_RT-GENE_Real-Time_Eye_ECCV_2018_paper.pdf
-    paper_web: PDF 
+    paper_web: Paper 
     url_video: https://www.youtube.com/watch?v=1SfOI4hDvBI&feature=youtu.be
     video: Video 
     url_bibtex: https://www.youtube.com/watch?v=vrDMqv1adHs
@@ -50,9 +50,9 @@
     url_paper_server:
     paper_server:
     url_paper_web: http://openaccess.thecvf.com/content_cvpr_2018/papers/Choi_Context-Aware_Deep_Feature_CVPR_2018_paper.pdf
-    paper_web: PDF
+    paper_web: Paper 
     url_video: https://www.youtube.com/watch?v=Ss5NIRL2HIk
-    video: Video
+    video: Video 
     url_bibtex:
     bibtex:
     url_poster:
@@ -62,35 +62,87 @@
     url_dataset:
     dataset:
     url_projectpage: https://sites.google.com/site/jwchoivision/home/traca
-    projectpage: Project Page
+    projectpage: ProjectPage 
   highlight: 1  
 
-- title: ""
-  image: .png
-  booktitle_short: 
-  booktitle_full: 
+- title: "MAGAN: Margin Adaptation for Generative Adversarial Networks"
+  image: magan.png
+  booktitle_short: ArXiv'17
+  booktitle_full: arXiv:1704.03817
   description: ""
-  authors:    
+  authors: Ruohan Wang, Antoine Cully* & Hyung Jin Chang*, Yiannis Demiris (*equal contribution)  
   link:
     url_paper_server:
     paper_server:
-    url_paper_web:
-    paper_web:
+    url_paper_web: https://arxiv.org/abs/1704.03817v1
+    paper_web: Paper 
     url_video:
     video:
     url_bibtex:
     bibtex:
     url_poster:
     poster:
-    url_code:
-    code:
+    url_code: https://github.com/RuohanW/magan
+    code: Code 
     url_dataset:
     dataset:
     url_projectpage:
     projectpage:
   highlight: 1   
 
-- title: ""
+- title: "Attentional Correlation Filter Network for Adaptive Visual Tracking"
+  image: cvpr2017.png
+  booktitle_short: CVPR'17
+  booktitle_full: IEEE Conference on Computer Vision and Pattern Recognition 2017
+  description: ""
+  authors: Jongwon Choi, Hyung Jin Chang, Sangdoo Yun, Tobias Fischer, Yiannis Demiris, Jin Young Choi   
+  link:
+    url_paper_server:
+    paper_server:
+    url_paper_web: http://openaccess.thecvf.com/content_cvpr_2017/papers/Choi_Attentional_Correlation_Filter_CVPR_2017_paper.pdf
+    paper_web: Paper 
+    url_video: https://www.youtube.com/watch?v=WCcaxLiDuyI
+    video: Video 
+    url_bibtex:
+    bibtex:
+    url_poster:
+    poster:
+    url_code:
+    code:
+    url_dataset:
+    dataset:
+    url_projectpage: https://sites.google.com/site/jwchoivision/home/acfn-1
+    projectpage: ProjectPage 
+  highlight: 1   
+
+- title: "Variational Autoencoded Regression: High Dimensional Regression of Visual Data on Complex Manifold"
+  image: cvpr2017_variational.png
+  booktitle_short: CVPR'17
+  booktitle_full: IEEE Conference on Computer Vision and Pattern Recognition 2017
+  description: ""
+  authors: Youngjoon Yoo, Sangdoo Yun, Hyung Jin Chang, Yiannis Demiris, Jin Young Choi
+  link:
+    url_paper_server: cvpr-2017-variational-paper.pdf
+    paper_server: Paper
+    url_paper_web:
+    paper_web:
+    url_video: https://www.youtube.com/watch?v=Wah0QUapkKo
+    video: Video
+    url_bibtex:
+    bibtex:
+    url_poster:
+    poster:
+    url_code:
+    code:
+    url_dataset:
+    dataset:
+    url_projectpage:
+    projectpage:
+    url_supplement: cvpr-2017-variational-supp.pdf
+    supplement: Supplement     
+  highlight: 1
+
+  - title: ""
   image: .png
   booktitle_short: 
   booktitle_full: 
@@ -113,7 +165,7 @@
     dataset:
     url_projectpage:
     projectpage:
-  highlight: 1        
+  highlight: 1       
 
 - title: "Transition Hough Forest for Trajectory-based Action Recognition"
   image: dummy.png
@@ -124,7 +176,7 @@
     Guillermo Garcia-Hernando, Hyung Jin Chang, Ismael Serrano, Oscar Deniz, Tae-Kyun Kim
   link:
     url_paper_server: transitionhoughforest_wacv2016.pdf
-    paper_server: PDF 
+    paper_server: Paper 
     url_paper_web:
     paper_web:
     url_video: https://www.youtube.com/watch?v=vrDMqv1adHs
@@ -142,7 +194,7 @@
     Pyo Jae Kim, Hyung Jin Chang, Jin Young Choi
   link:
     url_paper_server: ICPR08_pjkim.pdf
-    paper_server: PDF 
+    paper_server: Paper 
     url_paper_web:
     paper_web:
     url_video:
@@ -160,7 +212,7 @@
     Pyo Jae Kim, Hyung Jin Chang, Dong Sung Song, Jin Young Choi
   link:
     url_paper_server: KMSVDD.pdf
-    paper_server: PDF 
+    paper_server: Paper 
     url_paper_web:
     paper_web:
     url_video:
@@ -178,7 +230,7 @@
     Hyung Jin Chang, Pyo Jae Kim, Jung Hwan Choi, Jin Young Choi
   link:
     url_paper_server: svdd-using-clustering.pdf
-    paper_server: PDF 
+    paper_server: Paper 
     url_paper_web:
     paper_web:
     url_video:
@@ -198,7 +250,7 @@
     url_paper_server:
     paper_server:
     url_paper_web: https://ieeexplore.ieee.org/document/4406829
-    paper_web: PDF
+    paper_web: Paper
     url_video:
     video: 
     url_bibtex:
