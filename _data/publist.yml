@@ -40,29 +40,6 @@
     poster: 
   highlight: 1  
 
-- title: "Context-aware Deep Feature Compression for High-speed Visual Tracking"
-  image: CVPR-2018.png
-  booktitle_short: CVPR'18 
-  booktitle_full: IEEE Conference on Computer Vision and Pattern Recognition 2018
-  description: The proposed new visual object tracking framework achieves a high-speed tracking ability of over 100 fps while our framework maintains a competitive performance compared to the state-of-the-art trackers.
-  authors: Jongwon Choi, Hyung Jin Chang, Tobias Fischer, Sangdoo Yun, Kyuewang Lee, Jiyeoup Jeong, Yiannis Demiris, Jin Young Choi   
-  link:
-    url_paper_server:
-    paper_server:
-    url_paper_web: http://openaccess.thecvf.com/content_cvpr_2018/papers/Choi_Context-Aware_Deep_Feature_CVPR_2018_paper.pdf
-    paper_web: Paper 
-    url_video: https://www.youtube.com/watch?v=Ss5NIRL2HIk
-    video: Video 
-    url_bibtex:
-    bibtex:
-    url_poster:
-    poster:
-    url_code:
-    code:
-    url_dataset:
-    dataset:
-  highlight: 1  
-
 - title: "MAGAN: Margin Adaptation for Generative Adversarial Networks"
   image: magan.png
   booktitle_short: ArXiv'17
