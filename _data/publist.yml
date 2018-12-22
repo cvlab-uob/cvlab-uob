@@ -61,8 +61,6 @@
     code:
     url_dataset:
     dataset:
-    url_projectpage: https://sites.google.com/site/jwchoivision/home/traca
-    projectpage: ProjectPage 
   highlight: 1  
 
 - title: "MAGAN: Margin Adaptation for Generative Adversarial Networks"
