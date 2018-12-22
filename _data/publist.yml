@@ -183,7 +183,7 @@
     video: Video 
     url_bibtex: https://www.youtube.com/watch?v=vrDMqv1adHs
     bibtex: Bibtex 
-  highlight: 1
+  highlight: 0
 
 - title: "Fast Incremental Learning for One-class Support Vector Classifier using Sample Margin Information"
   image: lncs2007.png
