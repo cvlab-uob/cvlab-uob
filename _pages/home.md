@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a human-centred visual learning lab. at the [University of Birmingham](https://www.birmingham.ac.uk/index.aspx). Our aim is to explore and understand [quantum materials](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter.
+We are a human-centred visual learning lab. at the [University of Birmingham](https://www.birmingham.ac.uk/index.aspx). Our research interests are focused on human-centred visual learning, especially in application to human-robot interaction. Computer vision and machine learning including deep learning are my expertise research area.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
@@ -66,4 +66,5 @@ We are grateful for funding from the [University of Birmingham](https://www.birm
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_UoB.png" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_rs.png" style="width: 210px">
 </figure>
