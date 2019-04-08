@@ -62,11 +62,11 @@ We are located at Leiden University, the birthplace of superconductivity and hom
  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-We are grateful for funding from the [University of Birmingham](https://www.birmingham.ac.uk/index.aspx).
+We are grateful for funding from the [University of Birmingham](https://www.birmingham.ac.uk/index.aspx), [Royal Society](https://royalsociety.org), [Wellcome Trust](https://wellcome.ac.uk), and [EPSRC](https://epsrc.ukri.org).
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_UoB.png" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_EPSRC.jpg" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_rs.png" style="width: 150px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_wellcome.png" style="width: 150px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_UoB.png" style="width: 200px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_rs.png" style="width: 100px">
+<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_EPSRC.jpg" style="width: 150px">  
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_wellcome.png" style="width: 100px">
 </figure>
