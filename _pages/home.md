@@ -66,7 +66,7 @@ We are grateful for funding from the [University of Birmingham](https://www.birm
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_UoB.png" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_EPSRC.png" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_rs.png" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_wellcome.png" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_EPSRC.jpg" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_rs.png" style="width: 150px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_wellcome.png" style="width: 150px">
 </figure>
