@@ -1,7 +1,7 @@
 ---
 title: "HCVL@UoB - Home"
 layout: homelay
-excerpt: "HCVL Lab at the University of Birmingham"
+excerpt: "HCVL at the University of Birmingham"
 sitemap: false
 permalink: /
 ---
@@ -65,8 +65,8 @@ We are located at Leiden University, the birthplace of superconductivity and hom
 We are grateful for funding from the [University of Birmingham](https://www.birmingham.ac.uk/index.aspx), [Royal Society](https://royalsociety.org), [Wellcome Trust](https://wellcome.ac.uk), and [EPSRC](https://epsrc.ukri.org).
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_UoB.png" style="width: 200px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_UoB.png" style="width: 170px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_rs.png" style="width: 100px">
-<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_EPSRC.jpg" style="width: 150px">  
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_wellcome.png" style="width: 100px">
+<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_EPSRC.jpg" style="width: 140px">  
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_wellcome.png" style="width: 90px">
 </figure>
