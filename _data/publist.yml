@@ -19,7 +19,7 @@ We address these limitations by formulating the problem as a non-parametric task
     poster: 
     url_code: 
     code: 
-  highlight: 1
+  highlight: 0
 
 - title: "RT-GENE: Real-Time Eye Gaze Estimation in Natural Environments"
   image: eccv-2018.png
