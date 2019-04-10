@@ -46,7 +46,7 @@
   image: iros-2018.png
   booktitle_short: IROS'18
   booktitle_full: IEEE/RSJ International Conference on Intelligent Robots and Systems 2018
-  description: ""
+  description: We solve the hand-eye coordination task using a visuomotor deep neural network predictor that estimates the arm's joint configuration given a stereo image pair of the arm and the underlying head configuration.
   authors:
     Phuong D.H. Nguyen, Tobias Fischer, Hyung Jin Chang, Ugo Pattacini, Giorgio Metta, Yiannis Demiris
   link:
@@ -89,7 +89,7 @@
   highlight: 1    
 
 - title: "MAGAN: Margin Adaptation for Generative Adversarial Networks"
-  image: magan.png
+  image: magan.jpeg
   booktitle_short: ArXiv'17
   booktitle_full: arXiv:1704.03817
   description: ""
@@ -166,7 +166,33 @@
     supplement: Supplement     
   highlight: 1
 
-- title: ""
+- title: "Iterative Path Optimisation for Personalised Dressing Assistance using Vision and Force Information"
+  image: iros2016.png
+  booktitle_short: IROS'16
+  booktitle_full: IEEE/RSJ International Conference on Intelligent Robots and Systems
+  description: We propose an online iterative path optimisation method to enable a Baxter humanoid robot to assist human users to dress. The robot searches for the optimal personalised dressing path using vision and force sensor information.
+  authors: Yixing Gao, Hyung Jin Chang, Yiannis Demiris   
+  link:
+    url_paper_server: iros-2016-iterative
+    paper_server: Paper
+    url_paper_web:
+    paper_web:
+    url_video: https://www.youtube.com/watch?v=LfeNms7f6t4&feature=youtu.be
+    video: Video
+    url_bibtex:
+    bibtex:
+    url_poster:
+    poster:
+    url_code:
+    code:
+    url_dataset:
+    dataset:
+    url_projectpage:
+    projectpage:
+  highlight: 0     
+
+
+  - title: ""
   image: .png
   booktitle_short: 
   booktitle_full: 
@@ -280,3 +306,28 @@
     url_bibtex:
     bibtex:
   highlight: 0
+
+  - title: ""
+  image: .png
+  booktitle_short: 
+  booktitle_full: 
+  description: ""
+  authors:    
+  link:
+    url_paper_server:
+    paper_server:
+    url_paper_web:
+    paper_web:
+    url_video:
+    video:
+    url_bibtex:
+    bibtex:
+    url_poster:
+    poster:
+    url_code:
+    code:
+    url_dataset:
+    dataset:
+    url_projectpage:
+    projectpage:
+  highlight: 1      
