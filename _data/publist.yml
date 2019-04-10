@@ -2,8 +2,7 @@
   image: CVPR2019.png
   booktitle_short: CVPR'19
   booktitle_full: IEEE Conference on Computer Vision and Pattern Recognition 2019
-  description: We presented a new algorithm improving a given task predictor by combining multiple reference predictors, each constructed from the respective tasks. Conventional approaches require either all task predictor's known and shared parametric forms or multiple predictors' evaluation on a single fixed dataset. 
-We address these limitations by formulating the problem as a non-parametric task dependence estimation and by a robust joint diffusion process that automatically couples the predictors of disjoint data instances.
+  description: We presented a new algorithm improving a given task predictor by combining multiple reference predictors, each constructed from the respective tasks. 
   authors: 
     Kwang In Kim, Hyung Jin Chang
   link:
@@ -19,7 +18,7 @@ We address these limitations by formulating the problem as a non-parametric task
     poster: 
     url_code: 
     code: 
-  highlight: 0
+  highlight: 1
 
 - title: "RT-GENE: Real-Time Eye Gaze Estimation in Natural Environments"
   image: eccv-2018.png
