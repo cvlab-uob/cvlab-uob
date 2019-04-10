@@ -170,7 +170,7 @@
   image: iros2016.png
   booktitle_short: IROS'16
   booktitle_full: IEEE/RSJ International Conference on Intelligent Robots and Systems
-  description: We propose an online iterative path optimisation method to enable a Baxter humanoid robot to assist human users to dress. The robot searches for the optimal personalised dressing path using vision and force sensor information.
+  description: To enable a Baxter humanoid robot to assist human users to dress, the robot searches for the optimal personalised dressing path using vision and force sensor information.
   authors: Yixing Gao, Hyung Jin Chang, Yiannis Demiris   
   link:
     url_paper_server: iros-2016-iterative
