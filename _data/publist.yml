@@ -173,7 +173,7 @@
   description: To enable a Baxter humanoid robot to assist human users to dress, the robot searches for the optimal personalised dressing path using vision and force sensor information.
   authors: Yixing Gao, Hyung Jin Chang, Yiannis Demiris   
   link:
-    url_paper_server: iros-2016-iterative
+    url_paper_server: iros-2016-iterative.pdf
     paper_server: Paper
     url_paper_web:
     paper_web:
@@ -289,7 +289,7 @@
     bibtex:
   highlight: 0  
 
-- title: Emotional head robot with behavior decision model and face recognition
+- title: "Emotional head robot with behavior decision model and face recognition"
   image: iccas2007.png
   booktitle_short: ICCAS'07
   booktitle_full: International Conference on Control, Automation and Systems 2007
