@@ -20,6 +20,50 @@
     code: 
   highlight: 0
 
+- title: "Class-Attentive Diffusion Network for Semi-Supervised Classification"
+  image: 
+  booktitle_short: AAAI'21
+  booktitle_full: Association for the Advancement of Artificial Intelligence (AAAI) 2021
+  description:  
+  authors: 
+    Jongin Lim, Daeho Um, Hyung Jin Chang, Dae Ung Jo, Jin Young Choi 
+  link:
+    url_paper_server:
+    paper_server:
+    url_paper_web: https://arxiv.org/abs/2006.10222
+    paper_web: Paper 
+    url_video: 
+    video:  
+    url_bibtex: 
+    bibtex: 
+    url_poster: 
+    poster: 
+    url_code: 
+    code: 
+  highlight: 0
+
+- title: "SeqHAND: RGB-Sequence-Based 3D Hand Pose and Shape Estimation"
+  image: 
+  booktitle_short: ECCV'20
+  booktitle_full: European Conference on Computer Vision (ECCV) 2020
+  description:  
+  authors: 
+    John Yang*, Hyung Jin Chang*, Seungeui Lee, Nojun Kwak 
+  link:
+    url_paper_server:
+    paper_server:
+    url_paper_web: https://arxiv.org/abs/2007.05168
+    paper_web: Paper 
+    url_video: https://www.youtube.com/watch?v=1h7qHFa0Z1M&feature=youtu.be
+    video: Video 
+    url_bibtex: 
+    bibtex: 
+    url_poster: 
+    poster: 
+    url_code: 
+    code: 
+  highlight: 0  
+
 - title: "Joint Manifold Diffusion for Combining Predictions on Decoupled Observations"
   image: CVPR2019.png
   booktitle_short: CVPR'19
