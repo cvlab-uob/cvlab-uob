@@ -213,8 +213,7 @@
     projectpage:
   highlight: 0     
 
-
-  - title: ""
+- title: ""
   image: .png
   booktitle_short: 
   booktitle_full: 
@@ -329,7 +328,7 @@
     bibtex:
   highlight: 0
 
-  - title: ""
+- title: ""
   image: .png
   booktitle_short: 
   booktitle_full: 
