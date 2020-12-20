@@ -1,3 +1,25 @@
+- title: "Apparently Irrational Human Decision Making Reflects Rational Information Processing"
+  image: 
+  booktitle_short: AAAI'21
+  booktitle_full: Association for the Advancement of Artificial Intelligence (AAAI) 2021
+  description:  
+  authors: 
+    Haiyang Chen, Hyung Jin Chang, Andrew Howes
+  link:
+    url_paper_server:
+    paper_server:
+    url_paper_web: 
+    paper_web: Paper 
+    url_video: 
+    video:  
+    url_bibtex: 
+    bibtex: 
+    url_poster: 
+    poster: 
+    url_code: 
+    code: 
+  highlight: 0
+
 - title: "Joint Manifold Diffusion for Combining Predictions on Decoupled Observations"
   image: CVPR2019.png
   booktitle_short: CVPR'19
