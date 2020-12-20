@@ -6,6 +6,7 @@ sitemap: false
 permalink: /publications/
 ---
 
+
 # Publications
 
 For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.com/citations?hl=en&user=3TggrEkAAAAJ&view_op=list_works&gmla=AJsN-F4va6EjHhcBtURRNgDyyLaNVakvwCX5JWPJn7uJWOCSFhlJdQPSnnSTDNSzbTBOJI0MiVzGQVjDyzjGsbv2ySzm7kdgpLQTaODhdr3uvpH0747rsZRmcWi6ZLvHDJEUTIxkBUzq)
@@ -53,7 +54,6 @@ For a full list see [below](#full-list) or go to [Google Scholar](https://schola
 
 {% for publi in site.data.publist %}
 
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
   <strong>{{ publi.title }}</strong> -- <font color='red'>{{publi.booktitle_short}}</font><br />
   <em>{{ publi.authors }} </em><br />
   {{ publi.booktitle_full }} <br />
