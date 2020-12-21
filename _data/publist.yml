@@ -1,5 +1,5 @@
 - title: "Apparently Irrational Human Decision Making Reflects Rational Information Processing"
-  image: 
+  image: AAAI21_Chen.png
   booktitle_short: AAAI'21
   booktitle_full: Association for the Advancement of Artificial Intelligence (AAAI) 2021
   description:  
@@ -21,7 +21,7 @@
   highlight: 0
 
 - title: "Class-Attentive Diffusion Network for Semi-Supervised Classification"
-  image: 
+  image: AAAI21_Lim.png
   booktitle_short: AAAI'21
   booktitle_full: Association for the Advancement of Artificial Intelligence (AAAI) 2021
   description:  
@@ -43,7 +43,7 @@
   highlight: 0
 
 - title: "SeqHAND: RGB-Sequence-Based 3D Hand Pose and Shape Estimation"
-  image: 
+  image: ECCV20_Yang.png
   booktitle_short: ECCV'20
   booktitle_full: European Conference on Computer Vision (ECCV) 2020
   description:  
@@ -62,10 +62,142 @@
     poster: 
     url_code: 
     code: 
+  highlight: 0
+
+- title: "Combining Task Predictors via Enhancing Joint Predictability"
+  image: ECCV20_Kim.png
+  booktitle_short: ECCV'20
+  booktitle_full: European Conference on Computer Vision (ECCV) 2020
+  description:  
+  authors: 
+    Kwang In Kim, Christian Richardt, Hyung Jin Chang
+  link:
+    url_paper_server:
+    paper_server:
+    url_paper_web: https://arxiv.org/abs/2007.08012
+    paper_web: Paper 
+    url_video: 
+    video:  
+    url_bibtex: 
+    bibtex: 
+    url_poster: 
+    poster: 
+    url_code: 
+    code: 
+  highlight: 0
+
+- title: "G2L-Net: Global to Local Network for Real-Time 6D Pose Estimation With Embedding Vector Features"
+  image: CVPR20_Chen.png
+  booktitle_short: CVPR'20
+  booktitle_full: IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2020
+  description:  
+  authors: 
+    Wei Chen, Xi Jia, Hyung Jin Chang, Jinming Duan, Aleš Leonardis
+  link:
+    url_paper_server:
+    paper_server:
+    url_paper_web: https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_G2L-Net_Global_to_Local_Network_for_Real-Time_6D_Pose_Estimation_CVPR_2020_paper.pdf
+    paper_web: Paper 
+    url_video: 
+    video:  
+    url_bibtex: 
+    bibtex: 
+    url_poster: 
+    poster: 
+    url_code: 
+    code: 
+  highlight: 0
+
+- title: "Body Pose Sonification for a View-Independent Auditory Aid to Blind Rock Climbers"
+  image: WACV20_Ramsay.png
+  booktitle_short: WACV'20
+  booktitle_full: IEEE Winter Conference on Applications on Computer Vision (WACV) 2020
+  description:  
+  authors: 
+    Joseph Ramsay, Hyung Jin Chang
+  link:
+    url_paper_server:
+    paper_server:
+    url_paper_web: https://openaccess.thecvf.com/content_WACV_2020/papers/Ramsay_Body_Pose_Sonification_for_a_View-Independent_Auditory_Aid_to_Blind_WACV_2020_paper.pdf
+    paper_web: Paper 
+    url_video: 
+    video:  
+    url_bibtex: 
+    bibtex: 
+    url_poster: 
+    poster: 
+    url_code: 
+    code: 
+  highlight: 0
+
+- title: "PPNet: Point Pose Network for Robust 6D Object Pose Estimation"
+  image: WACV20_Chen.png
+  booktitle_short: WACV'20
+  booktitle_full: IEEE Winter Conference on Applications on Computer Vision (WACV) 2020
+  description:  
+  authors: 
+    Wei Chen, Jinming Duan, Hector Basevi, Hyung Jin Chang, Ales Leonardis
+  link:
+    url_paper_server:
+    paper_server:
+    url_paper_web: https://openaccess.thecvf.com/content_WACV_2020/papers/Chen_PonitPoseNet_Point_Pose_Network_for_Robust_6D_Object_Pose_Estimation_WACV_2020_paper.pdf
+    paper_web: Paper 
+    url_video: 
+    video:  
+    url_bibtex: 
+    bibtex: 
+    url_poster: 
+    poster: 
+    url_code: 
+    code: 
   highlight: 0  
 
+- title: "Symmetric Graph Convolutional Autoencoder for Unsupervised Graph Representation Learning"
+  image: ICCV19_Park.png
+  booktitle_short: ICCV'19
+  booktitle_full: International Conference on Computer Vision (ICCV) 2019
+  description:  
+  authors: 
+    Jiwoong Park, Minsik Lee, Hyung Jin Chang, Kyuewang Lee, Jin Young Choi
+  link:
+    url_paper_server:
+    paper_server:
+    url_paper_web: https://arxiv.org/abs/1908.02441
+    paper_web: Paper 
+    url_video: 
+    video:  
+    url_bibtex: 
+    bibtex: 
+    url_poster: 
+    poster: 
+    url_code: 
+    code: 
+  highlight: 0    
+
+- title: "PMnet: Learning of Disentangled Pose and Movement for Unsupervised Motion Retargeting"
+  image: BMVC19_Lim.png
+  booktitle_short: BMVC'19
+  booktitle_full: The British Machine Vision Conference (BMVC) 2019
+  description:  
+  authors: 
+    Jongin Lim, Hyung Jin Chang, Jin Young Choi
+  link:
+    url_paper_server:
+    paper_server:
+    url_paper_web: https://bmvc2019.org/wp-content/uploads/papers/0997-paper.pdf
+    paper_web: Paper 
+    url_video: https://www.youtube.com/watch?v=oWGK8dO7JU4
+    video: Video
+    url_bibtex: 
+    bibtex: 
+    url_poster: 
+    poster: 
+    url_code: https://github.com/ljin0429/bmvc19_pmnet
+    code: Code
+  highlight: 1
+
 - title: "Joint Manifold Diffusion for Combining Predictions on Decoupled Observations"
-  image: CVPR2019.png
+  image: CVPR19_Kim.png
   booktitle_short: CVPR'19
   booktitle_full: IEEE Conference on Computer Vision and Pattern Recognition 2019
   description: We presented a new algorithm improving a given task predictor by combining multiple reference predictors, each constructed from the respective tasks. 
