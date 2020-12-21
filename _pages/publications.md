@@ -53,8 +53,11 @@ For a full list see [below](#full-list) or go to [Google Scholar](https://schola
 ## Full List
 
 {% for publi in site.data.publist %}
-
+<div class="col-sm-6 clearfix">
+ <div class="well">
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" /> 
+ </div>
+</div>  
   <strong>{{ publi.title }}</strong> -- <font color='red'>{{publi.booktitle_short}}</font><br />
   <em>{{ publi.authors }} </em><br />
   {{ publi.booktitle_full }} <br />
