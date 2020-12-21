@@ -54,8 +54,6 @@ For a full list see [below](#full-list) or go to [Google Scholar](https://schola
 
 {% for publi in site.data.publist %}
 
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
-
   <strong>{{ publi.title }}</strong> -- <font color='red'>{{publi.booktitle_short}}</font><br />
   <em>{{ publi.authors }} </em><br />
   {{ publi.booktitle_full }} <br />
