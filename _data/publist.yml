@@ -389,31 +389,6 @@
     projectpage:
   highlight: 0     
 
-- title: ""
-  image: .png
-  booktitle_short: 
-  booktitle_full: 
-  description: ""
-  authors:    
-  link:
-    url_paper_server:
-    paper_server:
-    url_paper_web:
-    paper_web:
-    url_video:
-    video:
-    url_bibtex:
-    bibtex:
-    url_poster:
-    poster:
-    url_code:
-    code:
-    url_dataset:
-    dataset:
-    url_projectpage:
-    projectpage:
-  highlight: 1         
-
 - title: "Transition Hough Forest for Trajectory-based Action Recognition"
   image: dummy.png
   booktitle_short: WACV'16
@@ -503,28 +478,3 @@
     url_bibtex:
     bibtex:
   highlight: 0
-
-- title: ""
-  image: .png
-  booktitle_short: 
-  booktitle_full: 
-  description: ""
-  authors:    
-  link:
-    url_paper_server:
-    paper_server:
-    url_paper_web:
-    paper_web:
-    url_video:
-    video:
-    url_bibtex:
-    bibtex:
-    url_poster:
-    poster:
-    url_code:
-    code:
-    url_dataset:
-    dataset:
-    url_projectpage:
-    projectpage:
-  highlight: 1      
