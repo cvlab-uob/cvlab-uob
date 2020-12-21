@@ -24,9 +24,9 @@ For a full list see [below](#full-list) or go to [Google Scholar](https://schola
 <div class="col-sm-6 clearfix">
  <div class="well">
   <pubtit>{{ publi.title }}</pubtit>
+  <p><em>{{ publi.authors }}</em></p>  
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
   <p>{{ publi.description }}</p>
-  <p><em>{{ publi.authors }}</em></p>
   <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
   <p> {{ publi.news2 }}</p>
@@ -53,11 +53,9 @@ For a full list see [below](#full-list) or go to [Google Scholar](https://schola
 ## Full List
 
 {% for publi in site.data.publist %}
-<div class="col-sm-6 clearfix">
- <div class="well">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" /> 
- </div>
-</div>  
+  
+  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
+
   <strong>{{ publi.title }}</strong> -- <font color='red'>{{publi.booktitle_short}}</font><br />
   <em>{{ publi.authors }} </em><br />
   {{ publi.booktitle_full }} <br />
