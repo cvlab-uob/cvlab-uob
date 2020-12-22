@@ -1,3 +1,5 @@
+#========= 2021 =========
+
 - title: "Apparently Irrational Human Decision Making Reflects Rational Information Processing"
   image: AAAI21_Chen.png
   booktitle_short: AAAI'21
@@ -41,6 +43,8 @@
     url_code: 
     code: 
   highlight: 0
+
+#========= 2020 =========
 
 - title: "SeqHAND: RGB-Sequence-Based 3D Hand Pose and Shape Estimation"
   image: ECCV20_Yang.png
@@ -152,6 +156,30 @@
     code: 
   highlight: 0  
 
+- title: "User Modelling Using Multimodal Information for Personalised Dressing Assistance"
+  image: WACV20_Chen.png
+  booktitle_short: IEEE Access'20
+  booktitle_full: IEEE Access 2020
+  description:  
+  authors: 
+    Yixing Gao, Hyung Jin Chang, Yiannis Demiris
+  link:
+    url_paper_server:
+    paper_server:
+    url_paper_web: https://ieeexplore.ieee.org/document/9024050
+    paper_web: Paper 
+    url_video: 
+    video:  
+    url_bibtex: 
+    bibtex: 
+    url_poster: 
+    poster: 
+    url_code: 
+    code: 
+  highlight: 0   
+
+#========= 2019 =========  
+
 - title: "Symmetric Graph Convolutional Autoencoder for Unsupervised Graph Representation Learning"
   image: ICCV19_Park.png
   booktitle_short: ICCV'19
@@ -199,7 +227,7 @@
 - title: "Joint Manifold Diffusion for Combining Predictions on Decoupled Observations"
   image: CVPR19_Kim.png
   booktitle_short: CVPR'19
-  booktitle_full: IEEE Conference on Computer Vision and Pattern Recognition 2019
+  booktitle_full: IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2019
   description: We presented a new algorithm improving a given task predictor by combining multiple reference predictors, each constructed from the respective tasks. 
   authors: 
     Kwang In Kim, Hyung Jin Chang
@@ -217,6 +245,52 @@
     url_code: 
     code: 
   highlight: 1
+
+#========= 2018 =========  
+
+- title: "Highly Articulated Kinematic Structure Estimation Combining Motion and Skeleton Information"
+  image: dummy.png
+  booktitle_short: TPAMI'18
+  booktitle_full: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) 2018
+  description: We present a novel framework for unsupervised kinematic structure learning of complex articulated objects from a single-view 2D image sequence. In contrast to prior motion-based methods, which estimate relatively simple articulations, our method can generate arbitrarily complex kinematic structures with skeletal topology via a successive iterative merging strategy. 
+  authors: 
+    Hyung Jin Chang, Yiannis Demiris
+  link:
+    url_paper_server:
+    paper_server:
+    url_paper_web: https://hyungjinchang.files.wordpress.com/2018/01/tpami-highly-articulated-stamped.pdf
+    paper_web: Paper 
+    url_video: 
+    video:  
+    url_bibtex: 
+    bibtex: 
+    url_poster: 
+    poster: 
+    url_code: 
+    code: 
+  highlight: 1
+
+- title: "Learning Kinematic Structure Correspondences Using Multi-Order Similarities"
+  image: dummy.png
+  booktitle_short: TPAMI'18
+  booktitle_full: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) 2018
+  description: We present a novel framework for finding the kinematic structure correspondences between two articulated objects in videos via hypergraph matching. In contrast to appearance and graph alignment based matching methods, which have been applied among two similar static images, the proposed method finds correspondences between two dynamic kinematic structures of heterogeneous objects in videos. 
+  authors: 
+    Hyung Jin Chang, Tobias Fischer, Maxime Petit, Martina Zambelli, Yiannis Demiris
+  link:
+    url_paper_server:
+    paper_server:
+    url_paper_web: https://hyungjinchang.files.wordpress.com/2018/01/tpami-learning-kinematic-stamped.pdf
+    paper_web: Paper 
+    url_video: 
+    video:  
+    url_bibtex: 
+    bibtex: 
+    url_poster: 
+    poster: 
+    url_code: 
+    code: 
+  highlight: 1  
 
 - title: "RT-GENE: Real-Time Eye Gaze Estimation in Natural Environments"
   image: eccv-2018.png
@@ -286,6 +360,52 @@
     projectpage: ProjectPage
   highlight: 1    
 
+- title: "DAC-h3: A Proactive Robot Cognitive Architecture to Acquire and Express Knowledge About the World and the Self"
+  image: dummy.png
+  booktitle_short: TCDS'18
+  booktitle_full: IEEE Transactions on Cognitive and Developmental Systems (TCDS) 2018
+  description: This paper introduces a cognitive architecture for a humanoid robot to engage in a proactive, mixed-initiative exploration and manipulation of its environment, where the initiative can originate from both human and robot.
+  authors: 
+    T. Fischer*, C. Moulin-Frier*, M. Petit, G. Pointeau, J.-Y. Puigbo, U. Pattacini, S. C. Low, D. Camilleri, P. Nguyen, M. Hoffmann, H. J. Chang, M. Zambelli, A.-L. Mealier, A. Damianou, G. Metta, T. J. Prescott, Y. Demiris, P. F. Dominey, and P. F. M. J. Verschure
+  link:
+    url_paper_server:
+    paper_server:
+    url_paper_web: https://hyungjinchang.files.wordpress.com/2018/01/dac_h3_stamped.pdf
+    paper_web: Paper 
+    url_video: 
+    video:  
+    url_bibtex: 
+    bibtex: 
+    url_poster: 
+    poster: 
+    url_code: 
+    code: 
+  highlight: 1   
+
+#========= 2017 =========  
+
+- title: "Latent Regression Forest: Structured Estimation of 3D Hand Poses"
+  image: dummy.png
+  booktitle_short: TPAMI'17
+  booktitle_full: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) 2017
+  description: In this paper we present the latent regression forest (LRF), a novel framework for real-time, 3D hand pose estimation from a single depth image.
+  authors: 
+    Danhang Tang, Hyung Jin Chang, Alykhan Tejani, Tae-Kyun Kim
+  link:
+    url_paper_server:
+    paper_server:
+    url_paper_web: https://hyungjinchang.files.wordpress.com/2015/03/latentregressionforest_tpami.pdf
+    paper_web: Paper 
+    url_video: 
+    video:  
+    url_bibtex: 
+    bibtex: 
+    url_poster: 
+    poster: 
+    url_code: 
+    code: 
+  highlight: 1  
+
 - title: "MAGAN: Margin Adaptation for Generative Adversarial Networks"
   image: magan.jpg
   booktitle_short: ArXiv'17
@@ -310,7 +430,6 @@
     url_projectpage:
     projectpage:
   highlight: 1   
-
 
 - title: "Attentional Correlation Filter Network for Adaptive Visual Tracking"
   image: cvpr2017.png
@@ -364,10 +483,12 @@
     supplement: Supplement     
   highlight: 1
 
+#========= 2016 =========  
+
 - title: "Iterative Path Optimisation for Personalised Dressing Assistance using Vision and Force Information"
-  image: iros2016.png
+  image: IROS16_Gao.png
   booktitle_short: IROS'16
-  booktitle_full: IEEE/RSJ International Conference on Intelligent Robots and Systems
+  booktitle_full: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2016
   description: To enable a Baxter humanoid robot to assist human users to dress, the robot searches for the optimal personalised dressing path using vision and force sensor information.
   authors: Yixing Gao, Hyung Jin Chang, Yiannis Demiris   
   link:
@@ -389,8 +510,58 @@
     projectpage:
   highlight: 0     
 
+- title: "Kinematic Structure Correspondences via Hypergraph Matching"
+  image: CVPR16_Chang.png
+  booktitle_short: CVPR'16
+  booktitle_full: IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2016
+  description: 
+  authors: Hyung Jin Chang, Tobias Fischer, Maxime Petit, Martina Zambelli, Yiannis Demiris
+  link:
+    url_paper_server: https://hyungjinchang.files.wordpress.com/2016/03/cvpr2016-changetal.pdf
+    paper_server: Paper
+    url_paper_web:
+    paper_web:
+    url_video: https://www.youtube.com/watch?v=j_3sOfc1Fyw&feature=youtu.be
+    video: Video
+    url_bibtex:
+    bibtex:
+    url_poster:
+    poster:
+    url_code:
+    code:
+    url_dataset:
+    dataset:
+    url_projectpage:
+    projectpage:
+  highlight: 0      
+
+- title: "Visual Tracking Using Attention-Modulated Disintegration and Integration"
+  image: CVPR16_Choi.png
+  booktitle_short: CVPR'16
+  booktitle_full: IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2016
+  description: 
+  authors: Jongwon Choi, Hyung Jin Chang, Jiyeoup Jeong, Yiannis Demiris, Jin Young Choi
+  link:
+    url_paper_server: https://hyungjinchang.files.wordpress.com/2015/03/cvpr2016-visualtracking.pdf
+    paper_server: Paper
+    url_paper_web:
+    paper_web:
+    url_video: https://www.youtube.com/watch?v=wpTTWOnFWYk&feature=youtu.be
+    video: Video
+    url_bibtex:
+    bibtex:
+    url_poster:
+    poster:
+    url_code:
+    code:
+    url_dataset:
+    dataset:
+    url_projectpage:
+    projectpage:
+  highlight: 0     
+
 - title: "Transition Hough Forest for Trajectory-based Action Recognition"
-  image: dummy.png
+  image: WACV16_Garcia-Hernando.png
   booktitle_short: WACV'16
   booktitle_full: IEEE Winter Conference on Applications of Computer Vision
   description: ""
@@ -407,26 +578,468 @@
     bibtex: 
   highlight: 0
 
-- title: "Fast Incremental Learning for One-class Support Vector Classifier using Sample Margin Information"
-  image: lncs2007.png
-  booktitle_short: ICPR'08 [Oral presentation]
-  booktitle_full: International Conference on Pattern Recognition 2008
+- title: "Personalised Assistive Dressing by Humanoid Robots using Multi-modal Information"
+  image: ICRAW16_Gao.png
+  booktitle_short: ICRAW'16
+  booktitle_full: ICRA 2016 Workshop on Human-Robot Interfaces for Enhanced Physical Interactions
   description: ""
   authors:
-    Pyo Jae Kim, Hyung Jin Chang, Jin Young Choi
+    Yixing Gao, Hyung Jin Chang, Yiannis Demiris
   link:
-    url_paper_server: ICPR08_pjkim.pdf
+    url_paper_server: https://hyungjinchang.files.wordpress.com/2015/03/ws_icra2016_stamped.pdf
     paper_server: Paper 
     url_paper_web:
     paper_web:
     url_video:
     video: 
     url_bibtex:
-    bibtex:
-  highlight: 0 
+    bibtex: 
+  highlight: 0  
+
+- title: "Spatio-Temporal Hough Forest for Efficient Detection-Localisation-Recognition of Fingerwriting in Egocentric Camera"
+  image: CVIU16_Chang.png
+  booktitle_short: CVIU'16
+  booktitle_full: Computer Vision and Image Understanding (CVIU) 2016
+  description: ""
+  authors:
+    Hyung Jin Chang, Guillermo Garcia-Hernando, Danhang Tang, Tae-Kyun Kim
+  link:
+    url_paper_server: https://hyungjinchang.files.wordpress.com/2015/03/sthf_cviu.pdf
+    paper_server: Paper 
+    url_paper_web:
+    paper_web:
+    url_video:
+    video: 
+    url_bibtex:
+    bibtex: 
+  highlight: 0    
+
+- title: "Blockwise Collaborative Representation based Classification via L2-norm of Query Data for Accurate Face Recognition"
+  image: IETEL16_Na.png
+  booktitle_short: IET EL'16
+  booktitle_full: IET Electronic Letters 2016
+  description: ""
+  authors:
+    Jin Hee Na, Hyung Jin Chang
+  link:
+    url_paper_server: https://hyungjinchang.files.wordpress.com/2015/03/iet-blockwise-collaborative.pdf
+    paper_server: Paper 
+    url_paper_web:
+    paper_web:
+    url_video:
+    video: 
+    url_bibtex:
+    bibtex: 
+  highlight: 0   
+
+#========= 2015 =========  
+
+- title: "User Modelling for Personalised Dressing Assistance by Humanoid Robots"
+  image: IROS15_Gao.png
+  booktitle_short: IROS'15
+  booktitle_full: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2015
+  description: ""
+  authors:
+    Yixing Gao, Hyung Jin Chang, Yiannis Demiris
+  link:
+    url_paper_server: 
+    paper_server: 
+    url_paper_web: https://hyungjinchang.files.wordpress.com/2015/03/iros2015.pdf
+    paper_web: Paper
+    url_video: https://youtu.be/pJ0X2E3Y6Ls
+    video: Video
+    url_bibtex:
+    bibtex: 
+  highlight: 0   
+
+- title: "Unsupervised Learning of Complex Articulated Kinematic Structures combining Motion and Skeleton Information"
+  image: CVPR15_Chang.png
+  booktitle_short: CVPR'15
+  booktitle_full: IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2015
+  description: ""
+  authors:
+    Hyung Jin Chang, Yiannis Demiris
+  link:
+    url_paper_server: 
+    paper_server: 
+    url_paper_web: https://hyungjinchang.files.wordpress.com/2015/03/iros2015.pdf
+    paper_web: Paper
+    url_video: https://youtu.be/l431rT0S29U
+    video: Video
+    url_bibtex:
+    bibtex: 
+  highlight: 0     
+
+- title: "3D Finger CAPE: Clicking Action and Position Estimation under Self-Occlusions in Egocentric Viewpoint"
+  image: VR15_Jang.png
+  booktitle_short: VR'15
+  booktitle_full: IEEE Virtual Reality (VR) 2015 
+  description: ""
+  authors:
+    Youngkyoon Jang, Seung-Tak Noh, Hyung Jin Chang, Tae-Kyun Kim, Woontack Woo
+  link:
+    url_paper_server: 
+    paper_server: 
+    url_paper_web: https://hyungjinchang.files.wordpress.com/2015/03/3d_finger_cape.pdf
+    paper_web: Paper
+    url_video: https://www.youtube.com/watch?v=RKV0fyqNLU0
+    video: Video
+    url_bibtex:
+    bibtex: 
+  highlight: 0      
+
+- title: "STARE: Spatio-Temporal Attention RElocation for Multiple Structured Activities Detection"
+  image: TIP15_Lee.png
+  booktitle_short: TIP'15
+  booktitle_full: IEEE Transactions on Image Processing (TIP) 2015
+  description: ""
+  authors:
+    Kyuhwa Lee, Dimitri Ognibene, Hyung Jin Chang, Tae-Kyun Kim, Yiannis Demiris
+  link:
+    url_paper_server: 
+    paper_server: 
+    url_paper_web: https://hyungjinchang.files.wordpress.com/2015/03/main.pdf
+    paper_web: Paper
+    url_video: 
+    video:
+    url_bibtex:
+    bibtex: 
+  highlight: 0
+
+- title: "3D Finger CAPE: Clicking Action and Position Estimation under Self-Occlusions in Egocentric Viewpoint"
+  image: TVCG15_Jang.png
+  booktitle_short: TVCG'15
+  booktitle_full: IEEE Transactions on Visualization and Computer Graphics (TVCG) 2015
+  description: ""
+  authors:
+    Youngkyoon Jang, Seung-Tak Noh, Hyung Jin Chang, Tae-Kyun Kim, Woontack Woo
+  link:
+    url_paper_server: 
+    paper_server: 
+    url_paper_web: 
+    paper_web: 
+    url_video: 
+    video:
+    url_bibtex:
+    bibtex: 
+  highlight: 0  
+
+#========= 2014 =========  
+
+- title: "Robust action recognition using local motion and group sparsity"
+  image: TVCG15_Jang.png
+  booktitle_short: PR'14
+  booktitle_full: Pattern Recognition (PR) 2014
+  description: ""
+  authors:
+    Jungchan Cho, Minsik Lee, Hyung Jin Chang, Songhwai Oh
+  link:
+    url_paper_server: 
+    paper_server: 
+    url_paper_web: 
+    paper_web: 
+    url_video: 
+    video:
+    url_bibtex:
+    bibtex: 
+  highlight: 0  
+
+- title: "Latent Regression Forest: Structural Estimation of 3D Articulated Hand Posture"
+  image: CVPR14_Tang.png
+  booktitle_short: CVPR'14 (Oral)
+  booktitle_full: IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2014
+  description: ""
+  authors:
+    Danhang Tang, Hyung Jin Chang*, Alykhan Tejani*, Tae-Kyun Kim
+  link:
+    url_paper_server: 
+    paper_server: 
+    url_paper_web: http://www.iis.ee.ic.ac.uk/~dtang/cvpr_14.pdf
+    paper_web: Paper
+    url_video: http://www.youtube.com/watch?v=ZI_XNPI_QXA&feature=youtu.be
+    video: Video
+    url_bibtex:
+    bibtex: 
+  highlight: 0    
+
+#========= 2013 =========  
+
+- title: "Initialization-Insensitive Visual Tracking Through Voting with Salient Local Features"
+  image: ICCV13_Yi.png
+  booktitle_short: ICCV'13
+  booktitle_full: International Conference on Computer Vision (ICCV) 2013
+  description: ""
+  authors:
+    Kwang Yi, Hawook Jeong, Byeongho Heo, Hyung Jin Chang, Jin Young Choi
+  link:
+    url_paper_server: 
+    paper_server: 
+    url_paper_web: 
+    paper_web: 
+    url_video: 
+    video: 
+    url_bibtex:
+    bibtex: 
+  highlight: 0    
+
+- title: "Action Chart: A Representation for Efficient Recognition of Complex Activities"
+  image: BMVC13_Chang.png
+  booktitle_short: BMVC'13
+  booktitle_full: The British Machine Vision Conference (BMVC) 2013
+  description: ""
+  authors:
+    Hyung Jin Chang, Jiyun Kim, Jungchan Cho, Songhwai Oh, Kwang Moo Yi, Jin Young Choi
+  link:
+    url_paper_server: 
+    paper_server: 
+    url_paper_web: https://hyungjinchang.files.wordpress.com/2015/03/bmvc2013_actionchart.pdf
+    paper_web: Paper
+    url_video: http://youtu.be/HeJJJnehWa0
+    video: Video
+    url_bibtex:
+    bibtex: 
+  highlight: 0      
+
+- title: "Abstracted Radon Profiles for Fingerprint Recognition"
+  image: ICIP13_Sandhan.png
+  booktitle_short: ICIP'13
+  booktitle_full: IEEE International Conference on Image Processing (ICIP) 2013
+  description: ""
+  authors:
+    Tushar Sandhan, Hyung Jin Chang, Jin Young Choi
+  link:
+    url_paper_server: 
+    paper_server: 
+    url_paper_web: 
+    paper_web: 
+    url_video: 
+    video: 
+    url_bibtex:
+    bibtex: 
+  highlight: 0     
+
+- title: "Detection of Moving Objects with Non-Stationary Cameras in 5.8ms: Bringing Motion Detection to your Mobile Device"
+  image: CVPRW13_Yi.png
+  booktitle_short: CVPRW'13 (Best Paper Award)
+  booktitle_full: CVPR 2013 Workshops on Mobile Vision 2013
+  description: ""
+  authors:
+    Kwang Moo Yi, Kimin Yun, Soo Wan Kim, Hyung Jin Chang, Hawook Jeong, Jin Young Choi
+  link:
+    url_paper_server: 
+    paper_server: 
+    url_paper_web: 
+    paper_web: 
+    url_video: 
+    video: 
+    url_bibtex:
+    bibtex: 
+  highlight: 0         
+
+#========= 2012 =========  
+
+- title: "Active Attentional Sampling for Speed-up of Background Subtraction"
+  image: CVPR12_Chang.png
+  booktitle_short: CVPR'12
+  booktitle_full: IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2012
+  description: ""
+  authors:
+    Hyung Jin Chang, Hawook Jeong, Jin Young Choi
+  link:
+    url_paper_server: 
+    paper_server: 
+    url_paper_web: https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxwaWxwYWdlfGd4OjM3MjJhN2U2YjdmNDZkODg
+    paper_web: Paper
+    url_video: http://youtu.be/uyVg6LDPcnE
+    video: Video
+    url_bibtex:
+    bibtex: 
+  highlight: 0    
+
+- title: "Robust Moving Object Detection against Fast Illumination Change"
+  image: CVIU12_Choi.png
+  booktitle_short: CVIU'12
+  booktitle_full: Computer Vision and Image Understanding (CVIU) 2012
+  description: ""
+  authors:
+    JinMin Choi, Hyung Jin Chang, Yung Jun Yoo, and Jin Young Choi
+  link:
+    url_paper_server: 
+    paper_server: 
+    url_paper_web: http://www.sciencedirect.com/science/article/pii/S1077314211002347
+    paper_web: Paper
+    url_video: 
+    video: 
+    url_bibtex:
+    bibtex: 
+  highlight: 0
+
+- title: "Spatio-temporal Pattern Modeling for Fault Detection and Classification in Semiconductor Manufacturing"
+  image: TSM12_Chang.png
+  booktitle_short: TSM'12
+  booktitle_full: IEEE Transactions on Semiconductor Manufacturing 2012
+  description: ""
+  authors:
+    Hyung Jin Chang, Dong Sung Song, Pyo Jae Kim, and Jin Young Choi
+  link:
+    url_paper_server: 
+    paper_server: 
+    url_paper_web: https://sites.google.com/site/pilpage/TSM-10-0089-preprint.pdf?attredirects=0
+    paper_web: Paper
+    url_video: 
+    video: 
+    url_bibtex:
+    bibtex: 
+  highlight: 0     
+
+- title: "Hierarchical Feature Grouping for Multiple Object Segmentation and Tracking"
+  image: IVCNZ12_Byeon.png
+  booktitle_short: IVCNZ'12
+  booktitle_full: Image and Vision Computing New Zealand (IVCNZ) 2012
+  description: ""
+  authors:
+    Moonsub Byeon, Hyung Jin Chang, Jin Young Choi
+  link:
+    url_paper_server: 
+    paper_server: 
+    url_paper_web: http://delivery.acm.org/10.1145/2430000/2425922/p452-byeon.pdf?ip=147.46.67.49&acc=ACTIVE%20SERVICE&CFID=170838023&CFTOKEN=39084989&__acm__=1358403052_b7679ea6287f57c380025b2a7aab7e5e
+    paper_web: Paper
+    url_video: 
+    video: 
+    url_bibtex:
+    bibtex: 
+  highlight: 0      
+
+#========= ~ 2011 =========  
+
+- title: "Tracking Failure Detection by Imitating Human Visual Perception"
+  image: ICIP11_Chang.png
+  booktitle_short: ICIP'11
+  booktitle_full: IEEE International Conference on Image Processing (ICIP) 2011
+  description: ""
+  authors:
+    Hyung Jin Chang, Myoung Soo Park, Hawook Jeong, Jin Young Choi
+  link:
+    url_paper_server: 
+    paper_server: 
+    url_paper_web: https://sites.google.com/site/pilpage/ICIP11_hjchang.pdf?attredirects=0
+    paper_web: Paper
+    url_video: 
+    video: 
+    url_bibtex:
+    bibtex: 
+  highlight: 0  
+
+- title: "PIL-EYE: Integrated System for Sustainable Development of Intelligent Visual Surveillance Algorithms"
+  image: DICTA11_Chang.png
+  booktitle_short: DICTA'11 [Oral Presentation]
+  booktitle_full: IEEE Digital Image Computing Techniques and Applications (DICTA) 2011
+  description: ""
+  authors:
+    Hyung Jin Chang, Kwang Moo Yi, Shimin Yin, Soo Wan Kim, Young Min Baek, Ho Seok Ahn, Jin Young Choi
+  link:
+    url_paper_server: 
+    paper_server: 
+    url_paper_web: https://sites.google.com/site/pilpage/DICTA2011_PIL_EYE.pdf?attredirects=0
+    paper_web: Paper
+    url_video: 
+    video: 
+    url_bibtex:
+    bibtex: 
+  highlight: 0   
+
+- title: "Modeling of Moving Object Trajectory by Spatio-temporal Learning for Abnormal Behavior Detection"
+  image: AVSS11_Jeong.png
+  booktitle_short: AVSS'11
+  booktitle_full: IEEE International Conference on Advanced Video and Signal based Surveillance (AVSS) 2011
+  description: ""
+  authors:
+    Hawook Jeong, Hyung Jin Chang, Jin Young Choi
+  link:
+    url_paper_server: 
+    paper_server: 
+    url_paper_web: http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6027305
+    paper_web: Paper
+    url_video: 
+    video: 
+    url_bibtex:
+    bibtex: 
+  highlight: 0     
+
+- title: "Unsupervised Motion Learning for Abnormal Behavior Detection in Visual Surveillance"
+  image: JIEEK11_Jeong.png
+  booktitle_short: JIEEK'11
+  booktitle_full: Journal of the Institute of Electronics Engineers of Korea SC 2011
+  description: ""
+  authors:
+    Hawook Jeong, Hyung Jin Chang, Jin Young Choi 
+  link:
+    url_paper_server: 
+    paper_server: 
+    url_paper_web: 
+    paper_web: 
+    url_video: 
+    video: 
+    url_bibtex:
+    bibtex: 
+  highlight: 0       
+
+- title: "Optical Image Stabilizing System using Multirate Fuzzy PID Controller for Mobile Device Camera"
+  image: TSE09_Chang.png
+  booktitle_short: TSE'09
+  booktitle_full: IEEE Transactions on Consumer Electronics 2009
+  description: ""
+  authors:
+    Hyung Jin Chang, Pyo Jae Kim, Dong Sung Song, Jin Young Choi
+  link:
+    url_paper_server: 
+    paper_server: 
+    url_paper_web: https://sites.google.com/site/pilpage/Optical_Image_Chang.pdf?attredirects=0
+    paper_web: Paper
+    url_video: 
+    video: 
+    url_bibtex:
+    bibtex: 
+  highlight: 0     
+
+- title: "Detection of Suspicious Activity Using Incremental Outlier Detection Algorithms"
+  image: SPIE09_Pokrajac.png
+  booktitle_short: SPIE'09
+  booktitle_full: SPIE Signal and Data Processing on Small Targets 2009 
+  description: ""
+  authors:
+    D. Pokrajac, N. Reljin, N. Pejcic, T. Vance, S. McDaniel, A. Lazarevic, H. J. Chang, J. Y. Choi, R. Miezianko
+  link:
+    url_paper_server: 
+    paper_server: 
+    url_paper_web: 
+    paper_web: 
+    url_video: 
+    video: 
+    url_bibtex:
+    bibtex: 
+  highlight: 0      
+
+- title: "Fast Incremental Learning for One-class Support Vector Classifier using Sample Margin Information"
+  image: ICPR08_Kim.png
+  booktitle_short: ICPR'08
+  booktitle_full: International Conference on Pattern Recognition 2008
+  description: ""
+  authors:
+    Pyo Jae Kim, Hyung Jin Chang, Jin Young Choi
+  link:
+    url_paper_server: ICPR08_pjkim.pdf
+    paper_server: Paper
+    url_paper_web: 
+    paper_web: 
+    url_video: 
+    video: 
+    url_bibtex:
+    bibtex: 
+  highlight: 0   
 
 - title: "Fast Support Vector Data Description Using K-Means Clustering"
-  image: lncs2007.png
+  image: LNCS07_Kim.png
   booktitle_short: LNCS'07
   booktitle_full: Lecture Notes in Computer Science 2007
   description: ""
@@ -444,7 +1057,7 @@
   highlight: 0  
 
 - title: "Support Vector Data Description Using Clustering Method"
-  image: itc-cscc2007.png
+  image: ITC-CSCC07_Chang.png
   booktitle_short: ITC-CSCC'07
   booktitle_full: International Technical Conference on Circuits/Systems, Computers and Communications 2007
   description: ""
@@ -462,7 +1075,7 @@
   highlight: 0  
 
 - title: "Emotional head robot with behavior decision model and face recognition"
-  image: iccas2007.png
+  image: ICCAS07_Ahn.png
   booktitle_short: ICCAS'07
   booktitle_full: International Conference on Control, Automation and Systems 2007
   description: ""
